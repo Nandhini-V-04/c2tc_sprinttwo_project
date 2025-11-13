@@ -1,0 +1,36 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #ffa5e4, #f15f79);
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+.App {
+  text-align: center;
+  padding: 40px 20px;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+
+/*.App {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  background-color: #f4f7fa;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #004aad;
+  margin-bottom: 20px;
+}*/
